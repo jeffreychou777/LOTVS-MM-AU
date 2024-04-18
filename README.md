@@ -13,7 +13,7 @@ MM-AU consists of two data sets, [MM-Cap](https://github.com/JWFangit/LOTVS-CAP)
 ### video_metadata annotations
 
 An example:
-'''
+```
 {
 "video_hashcode": {
         "video_name": "1_1",
@@ -36,7 +36,7 @@ An example:
         "measures": "When passing the zebra crossing, drivers must slow down. When pedestrians or non-motor vehicles cross the zebra crossing, they should stop and give way to other normal running vehicles; When crossing the road, pedestrians must follow the zebra crossing, carefully observe the traffic, and do not cross the road in a hurry."
     }
 }
-'''
+```
 
 ## Task
 
