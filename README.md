@@ -2,8 +2,8 @@
 
 This is the official Repo for paper "Abductive Ego-View Accident Video Understanding for Safe Driving Perception"[CVPR2024 Highlight]
 
-[Paper_MM-AU](https://arxiv.org/abs/2403.00436)
-[Project homepage](http://www.lotvsmmau.net/)
+[Paper MM-AU](https://arxiv.org/abs/2403.00436)
+[Project Homepage](http://www.lotvsmmau.net/)
 
 ## MM-AU Datasets
 
