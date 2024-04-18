@@ -53,12 +53,11 @@ Cocodataset format download[link](https://github.com/jeffreychou777)
 
 If our work and repo is helpful to you, please give us a **free star** and **cite our paper**!
 
----
-'''
+```
 @article{fang2024abductive,
   title={Abductive Ego-View Accident Video Understanding for Safe Driving Perception},
   author={Fang, Jianwu and Li, Lei-lei and Zhou, Junfei and Xiao, Junbin and Yu, Hongkai and Lv, Chen and Xue, Jianru and Chua, Tat-Seng},
   journal={arXiv preprint arXiv:2403.00436},
   year={2024}
 }
-'''
+```
