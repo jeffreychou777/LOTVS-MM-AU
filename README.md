@@ -1,18 +1,26 @@
 # LOTVS-MMAU(Multi-Modal Accident video Understanding)
 
-[project home page](http://www.lotvsmmau.net/)
+[Our project home page](http://www.lotvsmmau.net/)
 
 ## MM-AU Datasets
+
+<div align="center">
+  <img src="MM-AU.png" width="600"/>
+  <div>&nbsp;</div>
+
+  <div>&nbsp;</div>
+</div>
 
 This is the official Repo for paper "Abductive Ego-View Accident Video Understanding for Safe Driving Perception"[CVPR2024 Highlight] [paper](https://arxiv.org/abs/2403.00436)
 
 ### Intorduction
 
-MM-AU consists of two data sets, [MM-Cap](https://github.com/JWFangit/LOTVS-CAP) and [MM-DADA](https://github.com/JWFangit/LOTVS-DADA) together
+MM-AU consists of two data sets, [LOTVS-Cap](https://github.com/JWFangit/LOTVS-CAP) and [LOTVS-DADA](https://github.com/JWFangit/LOTVS-DADA) together
 
-### video_metadata annotations
+### Video_Metadata annotations
 
 An example:
+
 ```
 {
 "video_hashcode": {
@@ -38,6 +46,24 @@ An example:
 }
 ```
 
+Explanation:
+
+- `video_hashcode`: Unique identifiers generated for all 11730 videos
+- `video_name`: Consists of the type to which the video accident belongs and the serial number
+- `type`: The type of the accident (you can find all the accident types in file)
+- `weather`: sunny,rainy,snowy,foggy (1-4)
+- `light`: day,night (1-2)
+- `scenes`: highway,tunnel,mountain,urban,rural (1-5)
+- `linear`: arterials,curve,intersection,T-junction,ramp (1-5)
+- `accident occurred`: whether an accident occurred (1/0)
+- `t_ai`: Accident window start frame
+- `t_co`: Collision start frame
+- `t_ae`: Accident window end frame
+- `texts`: Description of the accident
+- `causes`: Causes of the accident
+- `measures`: Advice on how to avoid accident
+
+
 ## Task
 
 MM-AU supports a variety of tasks due to its multimodal characteristics, and the following describes the application of MM-AU to various tasks.
@@ -47,7 +73,7 @@ MM-AU supports a variety of tasks due to its multimodal characteristics, and the
 In Object Detection Benchmark,we use the Cocodataset format to organize our data, the data we used in the paper's detection benchmark in the link.
 All the results were conducted by [MMDetection](https://github.com/open-mmlab/mmdetection) toolbox, checkpoints and config file will be released sonn.
 
-Cocodataset format download[link](https://github.com/jeffreychou777)
+Cocodataset format download [link](https://github.com/jeffreychou777)
 
 ## Citation
 
@@ -61,3 +87,4 @@ If our work and repo is helpful to you, please give us a **free star** and **cit
   year={2024}
 }
 ```
+
