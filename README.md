@@ -74,7 +74,9 @@ In Object Detection Benchmark,we use the Cocodataset format to organize our data
 All the results were conducted by [MMDetection](https://github.com/open-mmlab/mmdetection) toolbox, checkpoints and config file will be released sonn.
 
 Cocodataset format labels and images can be downloaded from here
+
 All the download link of **baidunetdisk** will be released soon.
+
 All the download link of **google drive** will take a lot longer.
 
 
