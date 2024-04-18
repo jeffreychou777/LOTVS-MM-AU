@@ -1,6 +1,8 @@
 # LOTVS-MMAU(Multi-Modal Accident video Understanding)
 
-[Our project homepage](http://www.lotvsmmau.net/)
+This is the official Repo for paper "Abductive Ego-View Accident Video Understanding for Safe Driving Perception"[CVPR2024 Highlight] 
+
+[Paper_MM-AU](https://arxiv.org/abs/2403.00436)   [Our project homepage](http://www.lotvsmmau.net/)
 
 ## MM-AU Datasets
 
@@ -11,7 +13,19 @@
   <div>&nbsp;</div>
 </div>
 
-This is the official Repo for paper "Abductive Ego-View Accident Video Understanding for Safe Driving Perception"[CVPR2024 Highlight] [Paper_MM-AU](https://arxiv.org/abs/2403.00436)
+
+MM-AU is the first large-scale dataset for multi-modal accident video understanding for safe driving perception. It has the following highlights:
+
+- first multi-modal accident video understanding benchmark in the safe driving field.
+- MM-AU owns 11,727 in-the-wild ego-view accident videos.
+- Each video is temporally aligned with the text descriptions of accident reasons, prevention solutions, and accident categories.
+- 58.6K pairs of video-based accident reason answers (ArA) are annotated.
+- Over 2.23 million object boxes are manually annotated for over 463K video frames.
+- There are 58 accident categories are annotated, and the accident categories are determined by the participant-relations defined in DADA-2000.
+- MM-AU facilitates 8 tasks of traffic accident video understanding (e.g. ① what objects are involved, ② what kinds of accidents, ③ where and ④ when the accident will occur, ⑤ why the accident occurs, ⑥ what are the keys to accident reasons, ⑦ how to prevent it, and ⑧ multimodal accident video diffusion). In addition, each task may be promoted by the developing of other related tasks.
+- ONLY free for academic use.
+If you are interested for MM-AU,please contact lotvsmmau@gmail.com
+
 
 ### Intorduction
 
