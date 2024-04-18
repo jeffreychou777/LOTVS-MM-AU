@@ -2,7 +2,7 @@
 
 This is the official Repo for paper "Abductive Ego-View Accident Video Understanding for Safe Driving Perception"[CVPR2024 Highlight] 
 
-[Paper_MM-AU](https://arxiv.org/abs/2403.00436)   [Our project homepage](http://www.lotvsmmau.net/)
+[Paper_MM-AU](https://arxiv.org/abs/2403.00436) \t [Project homepage](http://www.lotvsmmau.net/)
 
 ## MM-AU Datasets
 
@@ -13,6 +13,10 @@ This is the official Repo for paper "Abductive Ego-View Accident Video Understan
   <div>&nbsp;</div>
 </div>
 
+### Introduction
+
+We present MM-AU, a novel dataset for Multi-Modal Accident video Understanding. MM-AU contains 11,727 in-the-wild ego-view accident videos, each with temporally aligned text descriptions. We annotate over 2.23 million object boxes and 58,650 pairs of video-based accident reasons, covering 58 accident categories.
+MM-AU consists of two datasets, [LOTVS-Cap](https://github.com/JWFangit/LOTVS-CAP) and [LOTVS-DADA](https://github.com/JWFangit/LOTVS-DADA).
 
 MM-AU is the first large-scale dataset for multi-modal accident video understanding for safe driving perception. It has the following highlights:
 
@@ -27,10 +31,7 @@ MM-AU is the first large-scale dataset for multi-modal accident video understand
 If you are interested for MM-AU,please contact lotvsmmau@gmail.com
 
 
-### Intorduction
 
-We present MM-AU, a novel dataset for Multi-Modal Accident video Understanding. MM-AU contains 11,727 in-the-wild ego-view accident videos, each with temporally aligned text descriptions. We annotate over 2.23 million object boxes and 58,650 pairs of video-based accident reasons, covering 58 accident categories.
-MM-AU consists of two datasets, [LOTVS-Cap](https://github.com/JWFangit/LOTVS-CAP) and [LOTVS-DADA](https://github.com/JWFangit/LOTVS-DADA).
 
 ### Video_Metadata annotations
 
