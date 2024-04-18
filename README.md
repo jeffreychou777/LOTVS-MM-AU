@@ -1,6 +1,6 @@
 # LOTVS-MMAU(Multi-Modal Accident video Understanding)
 
-This is the official Repo for paper "Abductive Ego-View Accident Video Understanding for Safe Driving Perception"[CVPR2024 Highlight]
+This is the official repo for paper "Abductive Ego-View Accident Video Understanding for Safe Driving Perception"[CVPR2024 Highlight]
 
 [Paper MM-AU](https://arxiv.org/abs/2403.00436)
 [Project Homepage](http://www.lotvsmmau.net/)
