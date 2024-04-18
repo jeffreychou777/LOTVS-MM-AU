@@ -31,9 +31,6 @@ MM-AU is the first large-scale dataset for multi-modal accident video understand
 - ONLY free for academic use.
 If you are interested for MM-AU,please contact lotvsmmau@gmail.com
 
-
-
-
 ### Video_Metadata annotations
 
 An example:
