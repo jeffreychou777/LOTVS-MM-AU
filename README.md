@@ -5,7 +5,7 @@
 ## MM-AU Datasets
 
 <div align="center">
-  <img src="MM-AU.png" width="600"/>
+  <img src="MM-AU.png" width="800"/>
   <div>&nbsp;</div>
 
   <div>&nbsp;</div>
