@@ -111,7 +111,7 @@ All the download link of **google drive** will take a lot longer.
 
 ## Citation
 
-If our work and repo is helpful to you, please give us a **free star** and **cite our paper**!
+If our work and repo is helpful to you, please **cite our paper** and  give us a **free star** and *sign up on our [homepape](http://www.lotvsmmau.net/)*，thanks!
 
 ```
 @article{fang2024abductive,
