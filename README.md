@@ -86,6 +86,8 @@ MM-AU supports a variety of tasks due to its multimodal characteristics, and the
 In Object Detection Benchmark,we use the cocodataset style to organize our data, the data we used in the paper's detection benchmark in the link.
 All the results were conducted by [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMYOLO](https://github.com/open-mmlab/mmyolo) toolbox, checkpoints and config file will be released sonn.
 
+---
+
 The Origin annotation files can be downloaded from here:
 
 Refied version: [labels_6fps_GT](https://pan.baidu.com/s/1su8pcIx7GLvCD1qErkJWww?pwd=zfwz)
