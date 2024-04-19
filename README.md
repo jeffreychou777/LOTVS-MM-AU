@@ -94,7 +94,8 @@ Refied version: [labels_6fps_GT](https://pan.baidu.com/s/1su8pcIx7GLvCD1qErkJWww
 
 Raw version: [labels_30fps_diffdet_inference](https://pan.baidu.com/s/1ksUAbb0tdpOSKP87tpYUyA?pwd=gwl7)
 
-*Note*: The refined version is a manually corrected labeled file with a frame rate of 6fps. this is what was used in the paper, and the cocodataset style dataset was obtained from this. raw version is obtained by inference from the [Diffusiondet](https://github.com/ShoufaChen/DiffusionDet) model trained on the refined version data, and raw version is the result of the inference and has not been processed in any way.
+
+*Note*: The refined version is a manually corrected labeled file with a frame rate of 6fps. This is what was used in the paper, and the cocodataset style dataset was obtained from this. raw version is obtained by inference from the [Diffusiondet](https://github.com/ShoufaChen/DiffusionDet) model trained on the refined version data, and raw version is the result of the inference and has not been processed in any way.
 
 ---
 
