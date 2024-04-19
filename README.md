@@ -83,14 +83,18 @@ MM-AU supports a variety of tasks due to its multimodal characteristics, and the
 
 ### Object Detection
 
-In Object Detection Benchmark,we use the Cocodataset format to organize our data, the data we used in the paper's detection benchmark in the link.
-All the results were conducted by [MMDetection](https://github.com/open-mmlab/mmdetection) toolbox, checkpoints and config file will be released sonn.
+In Object Detection Benchmark,we use the cocodataset style to organize our data, the data we used in the paper's detection benchmark in the link.
+All the results were conducted by [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMYOLO](https://github.com/open-mmlab/mmyolo)toolbox, checkpoints and config file will be released sonn.
 
-Cocodataset format labels and images can be downloaded from here
+Cocodataset style labels and images files can be downloaded from here:
 
-All the download link of **baidunetdisk** will be released soon.
+**[BaiDuNetDisk]** The data that we used in paper:[images](https://pan.baidu.com/s/1DQ8wlfte_JcC6MWhAsFZrw?pwd=fvpk), [labels](https://pan.baidu.com/s/1aoca1jCbZf_NErtibY6H7A?pwd=5icc).
+
+**[BaiDuNetDisk]** MMAU-Detectv1(Reorganized data, also in cocodataset style): [images](https://pan.baidu.com/s/1bL4-ZFWcw3B28gBOrjwi7w?pwd=umdw), [labels](https://pan.baidu.com/s/1l777BoN2_z7vvLbqqHYqxA?pwd=y5y1)
 
 All the download link of **google drive** will take a lot longer.
+
+*Note* :The object detection data used in the paper and the improved version MMAU-Detectv1 differ in both file names and number of videos due to different data cleaning methods and organization, but both maintain the same cocodataset style and the same dataset division strategy. The dataset used in the paper is provided to ensure the reproducibility of our paper, while the organization of MMAU-Detectv1 allows for better access to the video and image metadata when needed.
 
 
 ## Citation
