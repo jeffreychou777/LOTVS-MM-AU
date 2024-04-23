@@ -103,7 +103,7 @@ Cocodataset style labels and images files can be downloaded from here:
 
 **[BaiDuNetDisk]** The data that we used in paper:[images](https://pan.baidu.com/s/1DQ8wlfte_JcC6MWhAsFZrw?pwd=fvpk), [labels](https://pan.baidu.com/s/1aoca1jCbZf_NErtibY6H7A?pwd=5icc).
 
-**[BaiDuNetDisk]** MMAU-Detectv1(Reorganized data, also in cocodataset style): [images](https://pan.baidu.com/s/1bL4-ZFWcw3B28gBOrjwi7w?pwd=umdw), [labels](https://pan.baidu.com/s/1l777BoN2_z7vvLbqqHYqxA?pwd=y5y1)
+**[BaiDuNetDisk]** MMAU-Detectv1(Reorganized data,also in cocodataset style): [images](https://pan.baidu.com/s/1bL4-ZFWcw3B28gBOrjwi7w?pwd=umdw), [labels](https://pan.baidu.com/s/1l777BoN2_z7vvLbqqHYqxA?pwd=y5y1)
 
 All the download link of **google drive** will take a lot longer.
 
@@ -112,7 +112,7 @@ All the download link of **google drive** will take a lot longer.
 
 ## Citation
 
-If our work and repo is helpful to you, please **cite our paper**，give us a **free star** and *sign up on our [homepape](http://www.lotvsmmau.net/)*，thanks!
+If our work and repo is helpful to you, please **cite our paper**,give us a **free star** and *sign up on our [homepape](http://www.lotvsmmau.net/)*, thanks!
 
 ```
 @article{fang2024abductive,
