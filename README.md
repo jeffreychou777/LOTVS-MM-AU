@@ -8,7 +8,7 @@ This is the official repo for paper "Abductive Ego-View Accident Video Understan
 ## MM-AU Datasets
 
 <div align="center">
-  <img src="MM-AU.png" width="900"/>
+  <img src="images/MM-AU.png" width="900"/>
   <div>&nbsp;</div>
 
   <div>&nbsp;</div>
