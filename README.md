@@ -8,7 +8,7 @@ This is the official repo for paper "Abductive Ego-View Accident Video Understan
 ## MM-AU Datasets
 
 <div align="center">
-  <img src="MM-AU.png" width="900"/>
+  <img src="images/MM-AU.png" width="900"/>
   <div>&nbsp;</div>
 
   <div>&nbsp;</div>
@@ -105,7 +105,7 @@ Cocodataset style labels and images files can be downloaded from here:
 
 **[BaiDuNetDisk]** MMAU-Detectv1(Reorganized data,also in cocodataset style): [images](https://pan.baidu.com/s/1bL4-ZFWcw3B28gBOrjwi7w?pwd=umdw), [labels](https://pan.baidu.com/s/1l777BoN2_z7vvLbqqHYqxA?pwd=y5y1)
 
-All the download link of **google drive** will take a lot longer.
+All the download link of **google drive** will be uploded as soon as possible.
 
 *Note* :The object detection data used in the paper and the improved version MMAU-Detectv1 differ in both file names and number of videos due to different data cleaning methods and organization, but both maintain the same cocodataset style and the same dataset division strategy. The dataset used in the paper is provided to ensure the reproducibility of our paper, while the organization of MMAU-Detectv1 allows for better access to the video and image metadata when needed.
 
