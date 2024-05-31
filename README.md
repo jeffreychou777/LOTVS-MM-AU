@@ -81,7 +81,7 @@ Explanation:
 
 MM-AU supports a variety of tasks due to its multimodal characteristics, and the following describes the application of MM-AU to various tasks.
 
-- [X] [Object Detectio](./Detection/od_readme.md)(Click to open the doc of OD task)
+- [X] [Object Detection](./Detection/od_readme.md)(Click to open the doc of OD task)
 - [ ] ArA
 - [ ] Diffusion
 
