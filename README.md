@@ -105,7 +105,7 @@ MM-AU # root of your MM-AU
 ```
 *Note*: Due to the large amount of data, chunked compression is used. Please use windows decompression tool to decompress the data.
 
-The decompressed, please make the file structured as following:
+After decompression, please make the file structured as following:
 ```
 MM-AU # root of your MM-AU
 ├── CAP-DATA
