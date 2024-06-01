@@ -77,6 +77,62 @@ Explanation:
 - `causes`: Causes of the accident
 - `measures`: Advice on how to avoid accident
 
+## Datasets Download
+the original raw datasets can be download here:
+
+BaiDuNetDisk:[link]( https://pan.baidu.com/s/1HrA8BibdpgcGiS6lQyDF8A?pwd=mskd)
+
+the raw data is like:
+```
+MM-AU # root of your MM-AU
+├── CAP-DATA
+│   ├── 1-10
+│       ├── 1-10.zip
+│       ├── 1-10.z01
+│       ├── 1-10.z02
+│   ├── 11
+│   ├── 12-42
+│   ├── 43
+│   ├── 44-62
+│   ├── cap_text_annotations.xls
+├── DADA-DATA
+│   ├── DADA-2000.zip
+│   ├── DADA-2000.z01
+│   ├── ......
+│   ├── DADA-2000.z05
+│   ├── dada_text_annotations.xlsx
+
+```
+*Note*: Due to the large amount of data, chunked compression is used. Please use windows decompression tool to decompress the data.
+
+The decompressed, please make the file structured as following:
+```
+MM-AU # root of your MM-AU
+├── CAP-DATA
+│   ├── 1-10
+│       ├── 1
+│           ├── 001537/images
+│               ├── 000001.jpg
+│               ├── ......
+│       ├── 2
+│       ├── ......
+│       ├── 10
+│   ├── 11
+│   ├── 12-42
+│   ├── 43
+│   ├── 44-62
+│   ├── cap_text_annotations.xls
+├── DADA-DATA
+│   ├── 1
+│       ├── 001/images
+│           ├── 0001.png
+│           ├── ......
+│   ├── 2
+│   ├── ......
+│   ├── 61
+│   ├── dada_text_annotations.xlsx
+```
+
 ## Task & Benchmark
 
 MM-AU supports a variety of tasks due to its multimodal characteristics, and the following describes the application of MM-AU to various tasks.
