@@ -7,12 +7,13 @@ All the results were conducted by [MMDetection](https://github.com/open-mmlab/mm
 
 ---
 
-The Origin annotation files can be downloaded from here:
+<!-- The Origin annotation files can be downloaded from here: -->
 
-Refied version: [labels_6fps_GT](https://pan.baidu.com/s/1su8pcIx7GLvCD1qErkJWww?pwd=zfwz)
+<!-- Refied version: [labels_6fps_GT](https://pan.baidu.com/s/1su8pcIx7GLvCD1qErkJWww?pwd=zfwz)
 
-Raw version: [labels_30fps_diffdet_inference](https://pan.baidu.com/s/1ksUAbb0tdpOSKP87tpYUyA?pwd=gwl7)
+Raw version: [labels_30fps_diffdet_inference](https://pan.baidu.com/s/1ksUAbb0tdpOSKP87tpYUyA?pwd=gwl7) -->
 
+The MM-AU datasets have a refined version and a raw version labels respectively.(The download link will be upload soon)
 
 *Note*: The refined version is a manually corrected labeled file with a frame rate of 6fps. This is what was used in the paper, and the cocodataset style dataset was obtained from this. raw version is obtained by inference from the [Diffusiondet](https://github.com/ShoufaChen/DiffusionDet) model trained on the refined version data, and raw version is the result of the inference and has not been processed in any way.
 
@@ -20,9 +21,11 @@ Raw version: [labels_30fps_diffdet_inference](https://pan.baidu.com/s/1ksUAbb0td
 
 Cocodataset style labels and images files can be downloaded from here:
 
-**[BaiDuNetDisk]** The data that we used in paper:[images](https://pan.baidu.com/s/1DQ8wlfte_JcC6MWhAsFZrw?pwd=fvpk), [labels](https://pan.baidu.com/s/1aoca1jCbZf_NErtibY6H7A?pwd=5icc).
+<!-- **[BaiDuNetDisk]** The data that we used in paper:[images](https://pan.baidu.com/s/1DQ8wlfte_JcC6MWhAsFZrw?pwd=fvpk), [labels](https://pan.baidu.com/s/1aoca1jCbZf_NErtibY6H7A?pwd=5icc).
 
-**[BaiDuNetDisk]** MMAU-Detectv1(Reorganized data,also in cocodataset style): [images](https://pan.baidu.com/s/1bL4-ZFWcw3B28gBOrjwi7w?pwd=umdw), [labels](https://pan.baidu.com/s/1l777BoN2_z7vvLbqqHYqxA?pwd=y5y1)
+**[BaiDuNetDisk]** MMAU-Detectv1(Reorganized data,also in cocodataset style): [images](https://pan.baidu.com/s/1bL4-ZFWcw3B28gBOrjwi7w?pwd=umdw), [labels](https://pan.baidu.com/s/1l777BoN2_z7vvLbqqHYqxA?pwd=y5y1) -->
+
+**[BaiDuNetDisk]** MMAU-Detectv1(Reorganized data,also in cocodataset style): Link[https://pan.baidu.com/s/1fnVsJ5qeQxg2Xwhrym9odQ?pwd=8kv1], which include training data, label, and text annotations. we will upload all the data soon, please stay tuned.
 
 All the download link of **google drive** will be uploded as soon as possible.
 

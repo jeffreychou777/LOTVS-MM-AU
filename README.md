@@ -2,8 +2,17 @@
 
 This is the official repo for paper "Abductive Ego-View Accident Video Understanding for Safe Driving Perception"[CVPR2024 Highlight]
 
-[Paper MM-AU](https://arxiv.org/abs/2403.00436)
-[Project Homepage](http://www.lotvsmmau.net/)
+[Paper MM-AU](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_Abductive_Ego-View_Accident_Video_Understanding_for_Safe_Driving_Perception_CVPR_2024_paper.pdf) ｜ [Project Homepage](http://www.lotvsmmau.net/)
+
+## Overview
+- [MM-AU Datasets](#mm-au-datasets)
+  - [Introduction](#introduction)
+  - [Video_Metadata annotations](#video_metadata-annotations)
+- [Datasets Download](#datasets-download)
+- [Task & Benchmark](#task--benchmark)
+- [Citation](#citation)
+
+
 
 ## MM-AU Datasets
 
@@ -80,9 +89,11 @@ Explanation:
 ## Datasets Download
 the original raw datasets can be download here:
 
-BaiDuNetDisk:[link]( https://pan.baidu.com/s/1HrA8BibdpgcGiS6lQyDF8A?pwd=mskd)
+BaiDuNetDisk:[link](https://github.com/jeffreychou777/LOTVS-MM-AU)(we will reupload the raw data soon, please stay tuned)
 
-the raw data is like:
+You can download the training data of the Object Detection task in [here](./Detection/od_readme.md)
+
+The raw data is like:
 ```
 MM-AU # root of your MM-AU
 ├── CAP-DATA
