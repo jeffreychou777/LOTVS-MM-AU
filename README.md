@@ -151,7 +151,7 @@ MM-AU supports a variety of tasks due to its multimodal characteristics, and the
 - [X] [Object Detection](./Detection/od_readme.md)(Click to open the doc of OD task)
 - [X] [Ego-view Accident Reason Answering](./Reason_Answering/ra_readme.md)
 - [X] [Ego-view Accident Video Diffusion](./Video_Diffusion/vd_readme.md)
-- [ ] Vision-based Accident Anticipation(Coming soon)
+- [ ] [Vision-based Accident Anticipation](https://github.com/jwfanggit/lotvs-cap)
 - [ ] Ego-view Accident Vide Classification(Coming soon)
 - [ ] Ego-view Accident Video Detection
 - [ ] Causal Inference for Accident Prevention
