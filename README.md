@@ -149,10 +149,10 @@ MM-AU # root of your MM-AU
 MM-AU supports a variety of tasks due to its multimodal characteristics, and the following describes the application of MM-AU to various tasks.
 
 - [X] [Object Detection](./Detection/od_readme.md)(Click to open the doc of OD task)
-- [X] [Ego-view Accident Reason Answering]()
-- [X] [Ego-view Accident Video Diffusion]()
-- [X] [Vision-based Accident Anticipation]()
-- [X] [Ego-view Accident Vide Classification]()
+- [X] [Ego-view Accident Reason Answering](./Reason_Answering/ra_readme.md)
+- [X] [Ego-view Accident Video Diffusion](./Video_Diffusion/vd_readme.md)
+- [ ] Vision-based Accident Anticipation(Coming soon)
+- [ ] Ego-view Accident Vide Classification(Coming soon)
 - [ ] Ego-view Accident Video Detection
 - [ ] Causal Inference for Accident Prevention
 - [ ] Driver Attention Prediction
