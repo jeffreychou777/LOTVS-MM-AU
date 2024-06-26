@@ -149,10 +149,13 @@ MM-AU # root of your MM-AU
 MM-AU supports a variety of tasks due to its multimodal characteristics, and the following describes the application of MM-AU to various tasks.
 
 - [X] [Object Detection](./Detection/od_readme.md)(Click to open the doc of OD task)
-- [ ] ArA
-- [ ] Diffusion
-
-
+- [X] [Ego-view Accident Reason Answering]()
+- [X] [Ego-view Accident Video Diffusion]()
+- [X] [Vision-based Accident Anticipation]()
+- [X] [Ego-view Accident Vide Classification]()
+- [ ] Ego-view Accident Video Detection
+- [ ] Causal Inference for Accident Prevention
+- [ ] Driver Attention Prediction
 
 
 ## Citation
@@ -160,11 +163,13 @@ MM-AU supports a variety of tasks due to its multimodal characteristics, and the
 If our work and repo is helpful to you, please **cite our paper**,give us a **free star** and *sign up on our [homepape](http://www.lotvsmmau.net/)*, thanks!
 
 ```
-@article{fang2024abductive,
-  title={Abductive Ego-View Accident Video Understanding for Safe Driving Perception},
-  author={Fang, Jianwu and Li, Lei-lei and Zhou, Junfei and Xiao, Junbin and Yu, Hongkai and Lv, Chen and Xue, Jianru and Chua, Tat-Seng},
-  journal={arXiv preprint arXiv:2403.00436},
-  year={2024}
+@InProceedings{Fang_2024_CVPR,
+    author    = {Fang, Jianwu and Li, Lei-lei and Zhou, Junfei and Xiao, Junbin and Yu, Hongkai and Lv, Chen and Xue, Jianru and Chua, Tat-Seng},
+    title     = {Abductive Ego-View Accident Video Understanding for Safe Driving Perception},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {22030-22040}
 }
 ```
 
