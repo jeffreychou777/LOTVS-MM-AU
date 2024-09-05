@@ -93,6 +93,8 @@ BaiDuNetDisk:[link](https://github.com/jeffreychou777/LOTVS-MM-AU)(we will reupl
 
 You can download the training data of the Object Detection task in [here](./Detection/od_readme.md)
 
+NEW!!: we have uploaded the raw dataset to the huggingface platform! if the BaiDuNetDisk is unavialable to you, you can download the datasets from huggingface datasets repo.[LinK](https://huggingface.co/datasets/JeffreyChou/MM-AU/tree/main)
+
 The raw data is like:
 ```
 MM-AU # root of your MM-AU
