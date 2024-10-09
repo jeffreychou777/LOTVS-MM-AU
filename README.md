@@ -89,9 +89,9 @@ Explanation:
 ## Datasets Download
 the original raw datasets can be download here:
 
-BaiDuNetDisk:[link](https://github.com/jeffreychou777/LOTVS-MM-AU)(we will reupload the raw data soon, please stay tuned)
+BaiDuNetDisk:[link]( https://pan.baidu.com/s/1HrA8BibdpgcGiS6lQyDF8A?pwd=mskd)
 
-You can download the training data of the Object Detection task in [here](./Detection/od_readme.md)
+You can download the COCO style data of Object Detection task in [here](./Detection/od_readme.md)
 
 NEW!!: we have uploaded the raw dataset to the huggingface platform! if the BaiDuNetDisk is unavialable to you, you can download the datasets from huggingface datasets repo.[LinK](https://huggingface.co/datasets/JeffreyChou/MM-AU/tree/main)
 
