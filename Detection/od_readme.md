@@ -23,7 +23,7 @@ Cocodataset style labels and images files can be downloaded from here:
 
 **[BaiDuNetDisk]** The data that we used in paper:[Link](https://pan.baidu.com/s/1jqGiH8r2TrLxfSoy5k9uiQ?pwd=f8gj).
 
-**[BaiDuNetDisk]** MMAU-Detectv1(Reorganized data,also in cocodataset style): [Link](https://pan.baidu.com/s/1bL4-ZFWcw3B28gBOrjwi7w?pwd=umdw)
+**[BaiDuNetDisk]** MMAU-Detectv1(Reorganized data,also in cocodataset style): [Link](https://pan.baidu.com/s/1MLHgaBgaBgzNnci5vNJCXw?pwd=e38j)
 
 All the format of dataset mentioned above can be downloaded in the **[Huggingface]** repo: [Link](https://huggingface.co/datasets/JeffreyChou/MM-AU/tree/main)
 
